@@ -1,12 +1,6 @@
 <?php include("assets/layouts/header.php"); ?>
 <main>
   <?php include("assets/layouts/slider.php"); ?>
-
-
-  <!-- Marketing messaging and featurettes
-  ================================================== -->
-  <!-- Wrap the rest of the page in another container to center all the content. -->
-
   <div class="container marketing">
 
     <!-- Three columns of text below the carousel -->
