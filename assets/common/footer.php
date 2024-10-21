@@ -102,6 +102,8 @@
 
   <script src="assets/js/plugins.js"></script>
   <script src="assets/js/main.js"></script>
+
+  <?php include ("custom-scripts.php"); ?>  
   
 </body>
 </html>

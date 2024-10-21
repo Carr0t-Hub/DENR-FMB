@@ -44,169 +44,62 @@
     </div>
     <!-- SLIDER END -->
 
-    <!-- WHATS NEW START -->
-    <div class="ltn__category-area section-bg-1--- pt-80 pb-85">
+    <!-- PST START -->
+    <div class="ltn__category-area section-bg-1--- pt-80 pb-30">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area ltn__section-title-2--- text-center">
-                        <h1 class="section-title white-color---">WHAT'S NEW</h1>
-                        <p class="white-color---">Planting the Seeds of a Sustainable Future.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row ltn__category-slider-active--- slick-arrow-1">
-                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
-                    <div class="ltn__category-item ltn__category-item-3 text-center">
-                        <div class="ltn__category-item-img">
-                            <a href="shop.html">
-                                <img src="assets/img/icons/icon-img/category-1.png" alt="Image">
-                            </a>
-                        </div>
-                        <div class="ltn__category-item-name">
-                            <h5><a href="shop.html">Browse all</a></h5>
-                            <h6>(235 item)</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
-                    <div class="ltn__category-item ltn__category-item-3 text-center">
-                        <div class="ltn__category-item-img">
-                            <a href="shop.html">
-                                <img src="assets/img/icons/icon-img/category-2.png" alt="Image">
-                            </a>
-                        </div>
-                        <div class="ltn__category-item-name">
-                            <h5><a href="shop.html">Vegetables</a></h5>
-                            <h6>(78 item)</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
-                    <div class="ltn__category-item ltn__category-item-3 text-center">
-                        <div class="ltn__category-item-img">
-                            <a href="shop.html">
-                                <img src="assets/img/icons/icon-img/category-3.png" alt="Image">
-                            </a>
-                        </div>
-                        <div class="ltn__category-item-name">
-                            <h5><a href="shop.html">Fruits</a></h5>
-                            <h6>(45 item)</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
-                    <div class="ltn__category-item ltn__category-item-3 text-center">
-                        <div class="ltn__category-item-img">
-                            <a href="shop.html">
-                                <img src="assets/img/icons/icon-img/category-4.png" alt="Image">
-                            </a>
-                        </div>
-                        <div class="ltn__category-item-name">
-                            <h5><a href="shop.html">Meat</a></h5>
-                            <h6>(15 item)</h6>
-                        </div>
+                        <h6 class="section-title white-color---">
+                            Philippine Standard Time
+                            <br>
+                            <span id="digital-clock" class="digital-clock"></span>
+                        </h6>
+                        
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- WHATS NEW END -->
-    
-    <!-- CATEGORY AREA START -->
-    <div class="ltn__category-area section-bg-1-- ltn__primary-bg before-bg-1 bg-image bg-overlay-theme-black-5--0 pt-115 pb-90" data-bg="assets/img/bg/5.jpg">
+    <!-- PST END -->
+
+    <!-- LOWER MENU START -->
+    <div class="ltn__counterup-area bg-image bg-overlay-theme-black-80 pt-115 pb-70" data-bg="assets/img/bg/img-parallax.jpg">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
-                    <div class="section-title-area ltn__section-title-2 text-center">
-                        <h1 class="section-title white-color">Top Categories</h1>
+                <div class="col-md-3 col-sm-6 align-self-center">
+                    <div class="ltn__counterup-item-3 text-color-white text-center">
+                        <div class="counter-icon"> <img src="assets/img/icons/icon-img/1.png" alt="#"> </div>
+                        <h1><span class="counter">14.3</span><span class="counterUp-icon"> MMT</span></h1>
+                        <h6>Rubber Production</h6>
                     </div>
                 </div>
-            </div>
-            <div class="row ltn__category-slider-active slick-arrow-1">
-                <div class="col-12">
-                    <div class="ltn__category-item ltn__category-item-3 text-center">
-                        <div class="ltn__category-item-img">
-                            <a href="shop.html">
-                                <img src="assets/img/icons/icon-img/category-1.png" alt="Image">
-                            </a>
-                        </div>
-                        <div class="ltn__category-item-name">
-                            <h5><a href="shop.html">Browse all</a></h5>
-                            <h6>(235 item)</h6>
-                        </div>
+                <div class="col-md-3 col-sm-6 align-self-center">
+                    <div class="ltn__counterup-item-3 text-color-white text-center">
+                        <div class="counter-icon"> <img src="assets/img/icons/icon-img/2.png" alt="#"> </div>
+                        <h1><span class="counter">5.0</span><span class="counterUp-icon">M cu.m.</span></h1>
+                        <h6>Timber</h6>
                     </div>
                 </div>
-                <div class="col-12">
-                    <div class="ltn__category-item ltn__category-item-3 text-center">
-                        <div class="ltn__category-item-img">
-                            <a href="shop.html">
-                                <img src="assets/img/icons/icon-img/category-2.png" alt="Image">
-                            </a>
-                        </div>
-                        <div class="ltn__category-item-name">
-                            <h5><a href="shop.html">Vegetables</a></h5>
-                            <h6>(78 item)</h6>
-                        </div>
+                <div class="col-md-3 col-sm-6 align-self-center">
+                    <div class="ltn__counterup-item-3 text-color-white text-center">
+                        <div class="counter-icon"> <img src="assets/img/icons/icon-img/3.png" alt="#"> </div>
+                        <h1><span class="counter">26,147</span><span class="counterUp-icon">ha</span></h1>
+                        <h6>Bamboo</h6>
                     </div>
                 </div>
-                <div class="col-12">
-                    <div class="ltn__category-item ltn__category-item-3 text-center">
-                        <div class="ltn__category-item-img">
-                            <a href="shop.html">
-                                <img src="assets/img/icons/icon-img/category-3.png" alt="Image">
-                            </a>
-                        </div>
-                        <div class="ltn__category-item-name">
-                            <h5><a href="shop.html">Fruits</a></h5>
-                            <h6>(45 item)</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12">
-                    <div class="ltn__category-item ltn__category-item-3 text-center">
-                        <div class="ltn__category-item-img">
-                            <a href="shop.html">
-                                <img src="assets/img/icons/icon-img/category-4.png" alt="Image">
-                            </a>
-                        </div>
-                        <div class="ltn__category-item-name">
-                            <h5><a href="shop.html">Meat</a></h5>
-                            <h6>(15 item)</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12">
-                    <div class="ltn__category-item ltn__category-item-3 text-center">
-                        <div class="ltn__category-item-img">
-                            <a href="shop.html">
-                                <img src="assets/img/icons/icon-img/category-5.png" alt="Image">
-                            </a>
-                        </div>
-                        <div class="ltn__category-item-name">
-                            <h5><a href="shop.html">Fish</a></h5>
-                            <h6>(25 item)</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12">
-                    <div class="ltn__category-item ltn__category-item-3 text-center">
-                        <div class="ltn__category-item-img">
-                            <a href="shop.html">
-                                <img src="assets/img/icons/icon-img/category-3.png" alt="Image">
-                            </a>
-                        </div>
-                        <div class="ltn__category-item-name">
-                            <h5><a href="shop.html">Others</a></h5>
-                            <h6>(85 item)</h6>
-                        </div>
+                <div class="col-md-3 col-sm-6 align-self-center">
+                    <div class="ltn__counterup-item-3 text-color-white text-center">
+                        <div class="counter-icon"> <img src="assets/img/icons/icon-img/5.png" alt="#"> </div>
+                        <h1><span class="counter">64,000</span><span class="counterUp-icon">mt</span></h1>
+                        <h6>Coffee</h6>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- CATEGORY AREA END -->
-
+    <!-- LOWER MENU END -->
+    
     <!-- PRODUCT TAB AREA START (product-item-3) -->
     <div class="ltn__product-tab-area ltn__product-gutter pt-115 pb-70">
         <div class="container">
@@ -228,7 +121,6 @@
                         <div class="tab-pane fade active show" id="liton_tab_3_1">
                             <div class="ltn__product-tab-content-inner">
                                 <div class="row ltn__tab-product-slider-one-active slick-arrow-1">
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -320,7 +212,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -412,7 +303,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -504,7 +394,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -595,7 +484,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -687,7 +575,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -786,7 +673,6 @@
                         <div class="tab-pane fade" id="liton_tab_3_2">
                             <div class="ltn__product-tab-content-inner">
                                 <div class="row ltn__tab-product-slider-one-active slick-arrow-1">
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -878,7 +764,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -970,7 +855,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -1062,7 +946,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -1153,7 +1036,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -1245,7 +1127,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -1344,7 +1225,6 @@
                         <div class="tab-pane fade" id="liton_tab_3_3">
                             <div class="ltn__product-tab-content-inner">
                                 <div class="row ltn__tab-product-slider-one-active slick-arrow-1">
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -1436,7 +1316,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -1528,7 +1407,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -1620,7 +1498,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -1711,7 +1588,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -1803,7 +1679,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -1902,7 +1777,6 @@
                         <div class="tab-pane fade" id="liton_tab_3_4">
                             <div class="ltn__product-tab-content-inner">
                                 <div class="row ltn__tab-product-slider-one-active slick-arrow-1">
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -1994,7 +1868,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -2086,7 +1959,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -2178,7 +2050,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -2269,7 +2140,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -2361,7 +2231,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -2460,7 +2329,6 @@
                         <div class="tab-pane fade" id="liton_tab_3_5">
                             <div class="ltn__product-tab-content-inner">
                                 <div class="row ltn__tab-product-slider-one-active slick-arrow-1">
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -2552,7 +2420,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -2644,7 +2511,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -2736,7 +2602,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -2827,7 +2692,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -2919,7 +2783,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- ltn__product-item -->
                                     <div class="col-lg-12">
                                         <div class="ltn__product-item ltn__product-item-3 text-center">
                                             <div class="product-img">
@@ -3022,42 +2885,99 @@
     </div>
     <!-- PRODUCT TAB AREA END -->
 
-    <!-- COUNTER UP AREA START -->
-    <div class="ltn__counterup-area bg-image bg-overlay-theme-black-80 pt-115 pb-70" data-bg="assets/img/bg/5.jpg">
+    <!-- CATEGORY AREA START -->
+    <div class="ltn__category-area section-bg-1-- ltn__primary-bg before-bg-1 bg-image bg-overlay-theme-black-5--0 pt-115 pb-90" data-bg="assets/img/bg/5.jpg">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 col-sm-6 align-self-center">
-                    <div class="ltn__counterup-item-3 text-color-white text-center">
-                        <div class="counter-icon"> <img src="assets/img/icons/icon-img/2.png" alt="#"> </div>
-                        <h1><span class="counter">733</span><span class="counterUp-icon">+</span> </h1>
-                        <h6>Active Clients</h6>
+                <div class="col-lg-12">
+                    <div class="section-title-area ltn__section-title-2 text-center">
+                        <h1 class="section-title white-color">Top Categories</h1>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 align-self-center">
-                    <div class="ltn__counterup-item-3 text-color-white text-center">
-                        <div class="counter-icon"> <img src="assets/img/icons/icon-img/3.png" alt="#"> </div>
-                        <h1><span class="counter">33</span><span class="counterUp-letter">K</span><span class="counterUp-icon">+</span> </h1>
-                        <h6>Cup Of Coffee</h6>
+            </div>
+            <div class="row ltn__category-slider-active slick-arrow-1">
+                <div class="col-12">
+                    <div class="ltn__category-item ltn__category-item-3 text-center">
+                        <div class="ltn__category-item-img">
+                            <a href="shop.html">
+                                <img src="assets/img/icons/icon-img/category-1.png" alt="Image">
+                            </a>
+                        </div>
+                        <div class="ltn__category-item-name">
+                            <h5><a href="shop.html">Browse all</a></h5>
+                            <h6>(235 item)</h6>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 align-self-center">
-                    <div class="ltn__counterup-item-3 text-color-white text-center">
-                        <div class="counter-icon"> <img src="assets/img/icons/icon-img/4.png" alt="#"> </div>
-                        <h1><span class="counter">100</span><span class="counterUp-icon">+</span> </h1>
-                        <h6>Get Rewards</h6>
+                <div class="col-12">
+                    <div class="ltn__category-item ltn__category-item-3 text-center">
+                        <div class="ltn__category-item-img">
+                            <a href="shop.html">
+                                <img src="assets/img/icons/icon-img/category-2.png" alt="Image">
+                            </a>
+                        </div>
+                        <div class="ltn__category-item-name">
+                            <h5><a href="shop.html">Vegetables</a></h5>
+                            <h6>(78 item)</h6>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 align-self-center">
-                    <div class="ltn__counterup-item-3 text-color-white text-center">
-                        <div class="counter-icon"> <img src="assets/img/icons/icon-img/5.png" alt="#"> </div>
-                        <h1><span class="counter">21</span><span class="counterUp-icon">+</span> </h1>
-                        <h6>Country Cover</h6>
+                <div class="col-12">
+                    <div class="ltn__category-item ltn__category-item-3 text-center">
+                        <div class="ltn__category-item-img">
+                            <a href="shop.html">
+                                <img src="assets/img/icons/icon-img/category-3.png" alt="Image">
+                            </a>
+                        </div>
+                        <div class="ltn__category-item-name">
+                            <h5><a href="shop.html">Fruits</a></h5>
+                            <h6>(45 item)</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="ltn__category-item ltn__category-item-3 text-center">
+                        <div class="ltn__category-item-img">
+                            <a href="shop.html">
+                                <img src="assets/img/icons/icon-img/category-4.png" alt="Image">
+                            </a>
+                        </div>
+                        <div class="ltn__category-item-name">
+                            <h5><a href="shop.html">Meat</a></h5>
+                            <h6>(15 item)</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="ltn__category-item ltn__category-item-3 text-center">
+                        <div class="ltn__category-item-img">
+                            <a href="shop.html">
+                                <img src="assets/img/icons/icon-img/category-5.png" alt="Image">
+                            </a>
+                        </div>
+                        <div class="ltn__category-item-name">
+                            <h5><a href="shop.html">Fish</a></h5>
+                            <h6>(25 item)</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="ltn__category-item ltn__category-item-3 text-center">
+                        <div class="ltn__category-item-img">
+                            <a href="shop.html">
+                                <img src="assets/img/icons/icon-img/category-3.png" alt="Image">
+                            </a>
+                        </div>
+                        <div class="ltn__category-item-name">
+                            <h5><a href="shop.html">Others</a></h5>
+                            <h6>(85 item)</h6>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- COUNTER UP AREA END -->
+    <!-- CATEGORY AREA END -->
 
     <!-- PRODUCT AREA START (product-item-3) -->
     <div class="ltn__product-area ltn__product-gutter pt-115 pb-70">
@@ -3070,7 +2990,6 @@
                 </div>
             </div>
             <div class="row ltn__tab-product-slider-one-active--- slick-arrow-1">
-                <!-- ltn__product-item -->
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__product-item ltn__product-item-3 text-left">
                         <div class="product-img">
@@ -3117,7 +3036,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- ltn__product-item -->
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__product-item ltn__product-item-3 text-left">
                         <div class="product-img">
@@ -3159,7 +3077,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- ltn__product-item -->
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__product-item ltn__product-item-3 text-center">
                         <div class="product-img">
@@ -3206,7 +3123,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- ltn__product-item -->
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__product-item ltn__product-item-3 text-center">
                         <div class="product-img">
@@ -3253,7 +3169,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- ltn__product-item -->
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__product-item ltn__product-item-3 text-center">
                         <div class="product-img">
@@ -3300,7 +3215,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- ltn__product-item -->
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__product-item ltn__product-item-3 text-center">
                         <div class="product-img">
@@ -3347,7 +3261,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- ltn__product-item -->
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__product-item ltn__product-item-3 text-center">
                         <div class="product-img">
@@ -3394,7 +3307,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- ltn__product-item -->
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__product-item ltn__product-item-3 text-center">
                         <div class="product-img">
