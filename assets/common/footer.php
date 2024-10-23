@@ -103,6 +103,10 @@
   <script src="assets/js/plugins.js"></script>
   <script src="assets/js/main.js"></script>
 
+  <!-- CDN Links -->
+  <script src="//cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="//cdn.datatables.net/2.1.8/js/dataTables.min.js"></script>
+
   <?php include ("custom-scripts.php"); ?>  
   
 </body>

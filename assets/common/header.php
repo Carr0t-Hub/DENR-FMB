@@ -1,3 +1,4 @@
+<?php include("functions/function.php"); ?>
 <!doctype html>
 <head>
     <meta charset="utf-8">
@@ -13,9 +14,13 @@
     <link rel="stylesheet" href="assets/css/plugins.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
+
+    <link rel="stylesheet" href="//cdn.datatables.net/2.1.8/css/dataTables.dataTables.min.css">
 </head>
 
 <body>
     <div class="body-wrapper">
         <?php include ("nav.php"); ?>
         <?php include ("mobile-nav.php"); ?>
+
+        <div class="ltn__utilize-overlay"></div>

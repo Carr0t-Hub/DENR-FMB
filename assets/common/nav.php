@@ -14,7 +14,7 @@
             <nav>
               <div class="ltn__main-menu">
                 <ul>
-                  <li><a href="#">Home</a></li>
+                  <li><a href="index.php">Home</a></li>
                   <li class="menu-icon"><a href="#">About</a>
                     <ul>
                       <li><a href="#">What is [E]NGP?</a></li>
@@ -33,8 +33,8 @@
                   </li>
                   <li class="menu-icon"><a href="#">Accomplishments</a>
                     <ul>
-                      <li><a href="#">Statistics</a></li>
-                      <li><a href="#">Sites & Contracts</a></li>
+                      <li><a href="statistics.php">Statistics</a></li>
+                      <li><a href="sites.php">Sites & Contracts</a></li>
                     </ul>
                   </li>
                   <li class="menu-icon"><a href="#">Maps & Photos</a>
@@ -43,7 +43,7 @@
                       <li><a href="#">ERDB Sites</a></li>
                       <li><a href="#">DAR-DENR Sites</a></li>
                       <li><a href="#">Proposed NGP Sites (2023)</a></li>
-                      <li><a href="#">NGP Geotagged Photos</a></li>
+                      <li><a href="geotagged.php">NGP Geotagged Photos</a></li>
                     </ul>
                   </li>
                   <li class="menu-icon"><a href="#">Events & Stories</a>
@@ -56,7 +56,7 @@
                       <li><a href="#">Video Gallery</a></li>
                     </ul>
                   </li>
-                  <li><a href="contact.html">Contact</a></li>
+                  <li><a href="contact.php">Contact</a></li>
                 </ul>
               </div>
             </nav>
