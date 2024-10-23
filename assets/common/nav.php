@@ -34,7 +34,7 @@
                   <li class="menu-icon"><a href="#">Accomplishments</a>
                     <ul>
                       <li><a href="statistics.php">Statistics</a></li>
-                      <li><a href="sites.php">Sites & Contracts</a></li>
+                      <li><a href="#">Sites & Contracts</a></li>
                     </ul>
                   </li>
                   <li class="menu-icon"><a href="#">Maps & Photos</a>

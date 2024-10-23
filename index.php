@@ -1,6 +1,5 @@
 <?php include("assets/common/header.php"); ?>
     
-
     <!-- SLIDER START -->
     <div class="ltn__slider-area ltn__slider-3  section-bg-1">
         <div class="ltn__slide-one-active slick-slide-arrow-1 slick-slide-dots-1 arrow-white">
@@ -23,6 +22,42 @@
                 </div>
             </div>
             <div class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-3 ltn__slide-item-3-normal text-color-white bg-image" data-bg="assets/img/slider/slide-2.jpg">
+                <div class="ltn__slide-item-inner">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12 align-self-center">
+                                <div class="slide-item-info">
+                                    <div class="slide-item-info-inner ltn__slide-animation">
+                                        <h1 class="slide-title animated ">[Enhanced] National <br> Greening Program</h1>
+                                        <div class="slide-brief animated">
+                                            <p>Is a massive forest rehabilitation program of the government implemented in pursuit of sustainable development for poverty alleviation, food security, biodiversity conservation, environmental stability, and climate change adaptation and mitigation.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-3 ltn__slide-item-3-normal text-color-white bg-image" data-bg="assets/img/slider/slide-3.jpg">
+                <div class="ltn__slide-item-inner">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12 align-self-center">
+                                <div class="slide-item-info">
+                                    <div class="slide-item-info-inner ltn__slide-animation">
+                                        <h1 class="slide-title animated ">[Enhanced] National <br> Greening Program</h1>
+                                        <div class="slide-brief animated">
+                                            <p>Is a massive forest rehabilitation program of the government implemented in pursuit of sustainable development for poverty alleviation, food security, biodiversity conservation, environmental stability, and climate change adaptation and mitigation.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-3 ltn__slide-item-3-normal text-color-white bg-image" data-bg="assets/img/slider/slide-4.jpg">
                 <div class="ltn__slide-item-inner">
                     <div class="container">
                         <div class="row">
